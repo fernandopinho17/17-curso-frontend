@@ -26,6 +26,9 @@ git clone https://github.com/fernandopinho17/17-curso-frontend.git
 ## Commits
 Informação de alteração
 - apos testado todo seu código
+- git add*
+- git commit -m "mensagem"
+
 
 ## GitFlow
 Fluxo do Git
