@@ -21,6 +21,7 @@ Arquivo B | Verão 1  | Versão 2
 ## Criar conta no GitHUB
 
 ## Clonar o projeto
+git clone https://github.com/fernandopinho17/17-curso-frontend.git
 
 ## Commits
 Informação de alteração
