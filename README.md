@@ -44,5 +44,20 @@ Fluxo do Git
 
 git checkout -b dev (cria um branch) 17
 git checkout master (mudar de branch)
+
 ### Merge
 Mescla de branchs
+você pode precisar resolver conflitos manualmente
+
+git merge main
+
+### pull requests
+Mescla de branchs no repositório
+Permite o code review
+O resepositório resolve os conflitos automaticamente
+
+
+### Configurar o Gitflow
+git flow init
+git flow feature start {nome-da-feature}
+
